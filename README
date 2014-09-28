@@ -1,0 +1,90 @@
+
+			Nook® Resigner README
+
+--------------------------------------------------------------------------------------
+	DISCLAIMER:
+
+    Copyright (C) Rob Power 2014
+    This file is part of Nook® Resigner.
+
+    Nook® Resigner is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Nook® Resigner is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Nook® Resigner.  If not, see <http://www.gnu.org/licenses/>.
+
+    Nook® NOOK is a trademark of barnesandnoble.com llc or its affiliates.
+---------------------------------------------------------------------------------------
+
+  What is it?
+  -----------
+
+    Nook® Resigner is a script designed for Linux (Tested with
+    Ubuntu 14.04) which automates the steps to resign your Nook®
+    files previously signed with B&N keys in order to allow
+    system apps modifications and easy resigning.
+    The script can also optionally patch ReaderRMSDK in order 
+    to use external apk file and convert original dictionaries.
+
+  Acknowledgements
+  ----------------
+    ReaderRMSDK modification as well as Lookup application was 
+    developed by RenateRST from XDA forum
+    ( http://forum.xda-developers.com/member.php?u=4474482,
+    http://www.temblast.com/ ): I would like to specially 
+    thank her for her work as well as user 'ApokrifX' from XDA
+    ( http://forum.xda-developers.com/member.php?u=4107074 )
+    for his help in OpenSSL understanding.
+ 
+
+  The Latest Version
+  ------------------
+
+  Latest version is available as .zip file from GitHub at
+  https://github.com/robpower/NookResigner/archive/master.zip
+  or
+  directly through git repository
+  git://github.com/robpower/NookResigner.git
+
+  TODO
+  ----
+     a) Double-check dependecy check section
+
+
+  Documentation
+  -------------
+
+  More detailed documentation will be provided soon at the project wiki
+  and eventually at developer website.
+  The most up-to-date documentation can be found at:
+  https://github.com/robpower/NookResigner/wiki
+
+  Installation
+  ------------
+
+  The script does not need installation, you can run directly in bash.
+
+  Licensing
+  ---------
+
+  Please see the file called LICENSE.
+
+  Contacts
+  --------
+
+     o If you have a concrete bug report for Nook® Resigner please go
+       to the Nook® Resigner Github Issue Tracking system and submit your report:
+       <https://github.com/robpower/NookResigner/issues>
+
+      o If you want to participate in actively developing Nook® Resigner project
+       contact with the developer at 
+	dev [at] robpower.info 
+       or through GitHub website:
+	<https://github.com/robpower>
